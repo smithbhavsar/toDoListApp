@@ -88,9 +88,12 @@ input[type="text"]:focus {
   opacity: 1;
 }
 
-footer {
-  font-size: 32px;
-  color: white;
-  color: rgba(0, 0, 0, 0.5);
+.footer {
+
+  font-size: 14px;
+  color: #A683E3;
+  background: white;
+  padding: 6px 115px;
+  border-radius: 5px;
   text-align: center;
 }
